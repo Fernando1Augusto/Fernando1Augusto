@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Tenho 21 anos;<br>- Sou estudante do 8° semestre de Ciência da Computação pela UFMS;<br>- Sou apaixonado por tecnologia e pelas soluções que ela pode prover;<br>- Gosto de correr ao ar livre;</p>
+<p align="left">- Tenho 21 anos;<br>- Graduado em Ciência da Computação pela UFMS;<br>Cursando pós-graduação em Data Analytics pela Xp Educação;<br>- Sou apaixonado por tecnologia e pelas soluções que ela pode prover;<br>- Gosto de correr ao ar livre;</p>
 
 ###
 
