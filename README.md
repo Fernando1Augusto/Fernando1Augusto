@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Tenho 21 anos;<br>- Graduado em Ciência da Computação pela UFMS;<br>- Cursando pós-graduação em Data Analytics pela Xp Educação;<br>- Sou apaixonado por tecnologia e pelas soluções que ela pode prover;<br>- Gosto de correr ao ar livre;</p>
+<p align="left">- Tenho 24 anos;<br>- Graduado em Ciência da Computação pela UFMS;<br>-Pós-graduado em Data Analytics pela Xp Educação;<br>- Sou apaixonado por tecnologia e pelas soluções que ela pode prover;<br>- Gosto de correr ao ar livre;</p>
 
 ###
 
