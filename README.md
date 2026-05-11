@@ -8,7 +8,7 @@ Transformando processos, dados e IA em sistemas reais.
 
 ## 🚀 Sobre mim
 
-Tenho 24 anos e sou formado em Ciência da Computação pela UFMS, com pós-graduação em Data Analytics pela XP Educação.
+Tenho 25 anos e sou formado em Ciência da Computação pela UFMS, com pós-graduação em Data Analytics pela XP Educação.
 
 Hoje atuo construindo soluções que conectam tecnologia, operação e negócio — desde automações inteligentes e integrações até plataformas internas, bots com IA e sistemas voltados para tomada de decisão.
 
