@@ -1,87 +1,92 @@
-<h3 align="center">Saudações !<br>Meu nome é Fernando e sou Desenvolvedor.</h3>
+<h1 align="center">⚡ Fernando Augusto</h1>
 
-###
+<h3 align="center">
+Transformando processos, dados e IA em sistemas reais.
+</h3>
 
-<h4 align="left">Sobre mim:</h4>
+---
 
-###
+## 🚀 Sobre mim
 
-<p align="left">- Tenho 24 anos;<br>- Graduado em Ciência da Computação pela UFMS;<br>-Pós-graduado em Data Analytics pela Xp Educação;<br>- Sou apaixonado por tecnologia e pelas soluções que ela pode prover;<br>- Gosto de correr ao ar livre;</p>
+Tenho 24 anos e sou formado em Ciência da Computação pela UFMS, com pós-graduação em Data Analytics pela XP Educação.
 
-###
+Hoje atuo construindo soluções que conectam tecnologia, operação e negócio — desde automações inteligentes e integrações até plataformas internas, bots com IA e sistemas voltados para tomada de decisão.
 
-<h4 align="left">Atualmente estou estudando:</h4>
+Gosto de resolver problemas complexos de forma prática.
 
-###
+Meu foco está em criar tecnologia que realmente opere no dia a dia:
+- automações;
+- IA aplicada;
+- sistemas escaláveis;
+- integrações;
+- dados;
+- produtos internos;
+- plataformas SaaS.
+
+Atualmente trabalho muito próximo de:
+- Python
+- APIs
+- PostgreSQL
+- Docker
+- n8n
+- React / React Native
+- Inteligência Artificial
+- BI & Analytics
+- Arquitetura de automações
+
+---
+
+## 🧠 O que estou construindo
+
+Atualmente explorando como IA, automações e sistemas podem transformar operações reais — principalmente em áreas como:
+- agronegócio;
+- saúde;
+- gestão comercial;
+- atendimento;
+- fluxos operacionais.
+
+Meu objetivo é construir produtos cada vez mais inteligentes, autônomos e escaláveis.
+
+---
+
+## ⚙️ Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-###
+---
 
-<h4 align="left">Meus conhecimentos:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
-</div>
-
-###
-
-<h4 align="left">Conecte-se comigo:</h4>
-
-###
+## 🌎 Conecte-se comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernando-augusto-costa-pereira-05039b194/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
-  <a href="https://www.instagram.com/fernando_costap/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
   <a href="mailto:fernandoaugustocostapereira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
   </a>
 </div>
 
-###
+---
 
-<h4 align="left">Estatísticas do meu GitHub:</h4>
-
-###
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Fernando1Augusto" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Fernando1Augusto" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernando1Augusto&show_icons=true&theme=tokyonight" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando1Augusto&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fernando1Augusto.Fernando1Augusto&right_color=brown&left_text=Visitantes "  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fernando1Augusto.Fernando1Augusto&right_color=blue&left_text=Visitantes"/>
 </div>
-
-###
-
-<!--
-**Fernando1Augusto/Fernando1Augusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
